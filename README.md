@@ -1,9 +1,10 @@
 
-![Colorful Elegant with Gradient Blur Educational Twitter Header](https://github.com/user-attachments/assets/7230fb89-d69c-499e-9dd1-19003053d618)
-## About Me ✨
-Im Elise, a junior at Georgia State University working on a degree in computer information systems with a concentration in data analytics.
+<img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/b70a457f-df80-4b78-abe6-68e52775cf55" />
 
-My passion lies in transforming complicated data into something more insightful that can be used to inform decisions and spark creativity. Because of my passion for statistics, I am able to examine data sets in great detail and find patterns and trends that might otherwise go overlooked.
+## About Me ✨
+Im Elise, a junior at Georgia State University working on a degree in computer information systems with a double concentration in Cybersecurity and Data Analytics.
+
+My passion lies in turning complex data into clear, actionable insights that support smarter decisions and strengthen security. With a strong foundation in statistics, I can analyze datasets in depth, uncover patterns, and identify trends or anomalies that might otherwise go unnoticed.
 
 | 🌱 Learning Javascript | 🎨 Interested In Web Design | 📚 Statistics Lover | 
 
@@ -12,7 +13,7 @@ My passion lies in transforming complicated data into something more insightful 
 
 ## 🌟 Featured Projects
 - **[Food Deserts Awareness](https://delighting-nice-theater-418.vscodeedu.app/#header-img)**: A petition web app to combat food deserts in America.
-- **[Portfolio Website](https://github.com/eparks9/portfolio)**: A responsive personal portfolio built with HTML, CSS, and JavaScript.
+- **[Portfolio Website](https://astonishing-bright-sofa-996.vscodeedu.app)**: A responsive personal portfolio built with HTML, CSS, and JavaScript. ![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-9CAF88)
 
 
 

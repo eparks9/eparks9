@@ -13,7 +13,7 @@ My passion lies in turning complex data into clear, actionable insights that sup
 
 ## Featured Projects
 - **[Food Deserts Awareness](https://delighting-nice-theater-418.vscodeedu.app/#header-img)**: A petition web app to combat food deserts in America.
-- **[Budget Tracker](https://www.canva.com/design/DAG6rhVjDFc/UyeHdb58bA2SmiyvSANgVg/viewutm_content=DAG6rhVjDFc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h291a2325)**: A clean, simple system for smarter budgeting.
+- **[Budget Tracker](https://www.canva.com/design/DAG6rhVjDFc/UyeHdb58bA2SmiyvSANgVg/view?utm_content=DAG6rhVjDFc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h291a232155)**: A clean, simple system for smarter budgeting.
 - **[Portfolio Website](https://astonishing-bright-sofa-996.vscodeedu.app)**: A responsive personal portfolio built with HTML, CSS, and JavaScript. ![Work in Progress](https://img.shields.io/badge/Work%20in%20Progress-9CAF88)
 
 
